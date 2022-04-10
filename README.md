@@ -12,5 +12,6 @@ Our problem formulation as a QUBO was inspired from the formulation of a classic
 Input to the problem is a time dependant graph where edges cost is defined for every time sequence.
 Output after QAOA optimization is a final sequence corresponding to the optimal path (post processing of output is not yet finished in this work).
 
-
+Presentation + mathematical formulation of QUBO:
+https://www.canva.com/design/DAE9fiL-sXY/E_vaLztpOpVHRdeRpf0Iug/view?utm_content=DAE9fiL-sXY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
