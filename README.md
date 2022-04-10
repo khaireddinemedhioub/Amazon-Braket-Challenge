@@ -8,3 +8,9 @@ Our problem formulation as a QUBO was inspired from the formulation of a classic
 >In this paper, we consider single machine scheduling problems in sequence dependent setup environments and we
 >exhibit how these problems present similarities with the time-dependent traveling salesman problem, a variant of the
 >famous traveling salesman problem in which transition costs between two cities now depends on the time of the visit.
+
+Input to the problem is a time dependant graph where edges cost is defined for every time sequence.
+Output after QAOA optimization is a final sequence corresponding to the optimal path (post processing of output is not yet finished in this work).
+
+
+
